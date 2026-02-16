@@ -1,2 +1,2 @@
 # CTSE
-CYSE lab
+CTSE labs
